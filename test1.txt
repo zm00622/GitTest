@@ -1,1 +1,3 @@
 Just knocking off the rust and testing my memory of git
+
+This line should only appear on branch 1
