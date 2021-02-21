@@ -3,3 +3,5 @@ Just knocking off the rust and testing my memory of git
 This line should only appear on branch 1
 
 This line should only appear on branch 2
+
+Now the lines should also appear in the master because we merged
